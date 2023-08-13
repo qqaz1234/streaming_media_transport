@@ -1,0 +1,2 @@
+# streaming_media_transport
+使用python在电脑上进行加密视频与音频传输
